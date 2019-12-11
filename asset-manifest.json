@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/andrew-react/static/css/main.df37ad64.chunk.css",
+    "main.js": "/andrew-react/static/js/main.11cbbb29.chunk.js",
+    "main.js.map": "/andrew-react/static/js/main.11cbbb29.chunk.js.map",
+    "runtime-main.js": "/andrew-react/static/js/runtime-main.36944bc5.js",
+    "runtime-main.js.map": "/andrew-react/static/js/runtime-main.36944bc5.js.map",
+    "static/js/2.c749366e.chunk.js": "/andrew-react/static/js/2.c749366e.chunk.js",
+    "static/js/2.c749366e.chunk.js.map": "/andrew-react/static/js/2.c749366e.chunk.js.map",
+    "index.html": "/andrew-react/index.html",
+    "precache-manifest.f76b9d865b4164c572ed20e8838ef9f7.js": "/andrew-react/precache-manifest.f76b9d865b4164c572ed20e8838ef9f7.js",
+    "service-worker.js": "/andrew-react/service-worker.js",
+    "static/css/main.df37ad64.chunk.css.map": "/andrew-react/static/css/main.df37ad64.chunk.css.map",
+    "static/js/2.c749366e.chunk.js.LICENSE": "/andrew-react/static/js/2.c749366e.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.36944bc5.js",
+    "static/js/2.c749366e.chunk.js",
+    "static/css/main.df37ad64.chunk.css",
+    "static/js/main.11cbbb29.chunk.js"
+  ]
+}
