@@ -12,7 +12,7 @@ class App extends Component {
 	handleChange = () => {
 		this.setState(
 			(prevState, prevProps) => {
-				return { value: prevState.value + 1 };
+				return { value: prevState.value + prevProps.increment };
 			},
 			() => console.log(this.state.value)
 		);
